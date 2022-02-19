@@ -1,1 +1,1 @@
-worker : npm start
+npm i @adiwajshing/baileys@3.5.3
