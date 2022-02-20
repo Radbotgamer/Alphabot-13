@@ -64,7 +64,7 @@ Off in web nya
 - [`Alphabot 3`](https://chat.whatsapp.com/KCSqHTky1apG7ApePsfiPy)
 
 ##Deploy
-(https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Radbotgamer/Alphabot-13/tree/patch-1)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Radbotgamer/Alphabot-13/tree/patch-1)
 
 ## `THANKS TO`
 
