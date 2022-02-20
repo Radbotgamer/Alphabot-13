@@ -63,6 +63,9 @@ Off in web nya
 - [`Alphabot 2`](https://chat.whatsapp.com/E8NExJwIbhBJYzssfqJNsE)
 - [`Alphabot 3`](https://chat.whatsapp.com/KCSqHTky1apG7ApePsfiPy)
 
+##Deploy
+(https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Radbotgamer/Alphabot-13/tree/patch-1)
+
 ## `THANKS TO`
 
 - Allah SWT.
