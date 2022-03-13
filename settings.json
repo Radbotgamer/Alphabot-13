@@ -1,5 +1,5 @@
 {
-    "self_mode": true,
+    "self_mode": false,
 	"autobio": false,
 	"antihidetag": true,
 	"user_register": true,
@@ -17,5 +17,5 @@
 	"thumb":"thumbnail_1.jpg",
 	"thumbnail":"thumbnail_2.jpg",
 	"fakethumb":"thumbnail_1.jpg", 
-	"fake": " 「  ALPHABOT  」\nCreated By @ZeeoneOfcོ"
+	"fake": " 「  ALPHABOT  」\nCreated By RadJoel"
 }
